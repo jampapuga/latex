@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.1.16)  18 JAN 2016 17:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.1.16)  18 JAN 2016 17:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -596,24 +596,26 @@ Package pdftex.def Info: img2.jpg used on input line 60.
  <./img1.jpg> <./img2.jpg>] [2] [3]
 (./sssss.aux) ) 
 Here is how much of TeX's memory you used:
- 4291 strings out of 493054
- 63814 string characters out of 6138327
- 140818 words of memory out of 5000000
- 7757 multiletter control sequences out of 15000+600000
- 7591 words of font info for 27 fonts, out of 8000000 for 9000
+ 4304 strings out of 493054
+ 63965 string characters out of 6138327
+ 140824 words of memory out of 5000000
+ 7765 multiletter control sequences out of 15000+600000
+ 9495 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,10n,43p,3617b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,10n,43p,3616b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
 0.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:
 /texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2
 015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2015/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2015/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2015/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb>
-Output written on sssss.pdf (3 pages, 305678 bytes).
+ic/amsfonts/cm/cmss12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+i10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on sssss.pdf (3 pages, 335335 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
