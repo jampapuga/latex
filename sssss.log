@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.1.16)  17 JAN 2016 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.1.16)  18 JAN 2016 17:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -580,40 +580,42 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 34.
 
-<img1.jpg, id=1, 1084.05pt x 1084.05pt>
+<img1.jpg, id=1, 481.8pt x 361.35pt>
 File: img1.jpg Graphic file (type jpg)
  <use img1.jpg>
 Package pdftex.def Info: img1.jpg used on input line 54.
-(pdftex.def)             Requested size: 167.2989pt x 167.2982pt.
+(pdftex.def)             Requested size: 167.2989pt x 125.47089pt.
 
-<img2.jpg, id=2, 602.25pt x 614.295pt>
+<img2.jpg, id=2, 1284.8pt x 722.7pt>
 File: img2.jpg Graphic file (type jpg)
  <use img2.jpg>
 Package pdftex.def Info: img2.jpg used on input line 60.
-(pdftex.def)             Requested size: 167.2989pt x 170.64227pt.
+(pdftex.def)             Requested size: 167.2989pt x 94.09764pt.
  [1{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
  <./img1.jpg> <./img2.jpg>] [2] [3]
 (./sssss.aux) ) 
 Here is how much of TeX's memory you used:
- 4290 strings out of 493054
- 63806 string characters out of 6138327
- 140838 words of memory out of 5000000
- 7756 multiletter control sequences out of 15000+600000
- 7591 words of font info for 27 fonts, out of 8000000 for 9000
+ 4304 strings out of 493054
+ 63965 string characters out of 6138327
+ 140824 words of memory out of 5000000
+ 7765 multiletter control sequences out of 15000+600000
+ 9495 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,10n,43p,3617b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,10n,43p,3616b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex1
 0.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:
 /texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2
 015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2015/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2015/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2015/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb>
-Output written on sssss.pdf (3 pages, 283044 bytes).
+ic/amsfonts/cm/cmss12.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+i10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on sssss.pdf (3 pages, 335349 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
