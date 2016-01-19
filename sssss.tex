@@ -1,7 +1,7 @@
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
 
-
+\usepackage{eso-pic}
 \usepackage{geometry}
 \geometry{a4paper} 
 \usepackage{graphicx}
@@ -85,6 +85,16 @@ $$\left[\begin{array}{ccc}
 %\subsection{A subsection}
 
 %More text.
+
+\AddToShipoutPicture{%
+  \AtPageLowerLeft{%
+    \rotatebox{90}{%
+        \begin{minipage}{\paperheight}
+          \centering\textcopyright~\today{} Humble me
+        \end{minipage} %
+      }
+    } %
+  }%
 
 \begin{thebibliography}{9}
 
