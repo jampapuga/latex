@@ -1,7 +1,7 @@
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
 
-
+\usepackage{eso-pic}
 \usepackage{geometry}
 \geometry{a4paper} 
 \usepackage{graphicx}
@@ -86,7 +86,19 @@ $$\left[\begin{array}{ccc}
 
 %More text.
 
+<<<<<<< HEAD
 
+=======
+\AddToShipoutPicture{%
+  \AtPageLowerLeft{%
+    \rotatebox{90}{%
+        \begin{minipage}{\paperheight}
+          \centering\textcopyright~\today{} Humble me
+        \end{minipage} %
+      }
+    } %
+  }%
+>>>>>>> druga
 
 \begin{thebibliography}{9}
 
@@ -104,5 +116,13 @@ $$\left[\begin{array}{ccc}
   2137.
 
 \end{thebibliography}
+
+\section{Punkciki}
+
+++++++++
+
+\subsection{Pl0X}
+
+TOP Kek.
 
 \end{document}
